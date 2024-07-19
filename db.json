@@ -2,7 +2,7 @@
   "conversations": [
     {
       "id": "15551234567",
-      "summary": "Discussed product features and pricing. Customer interested in Premium plan.",
+      "response_data": "Discussed product features and pricing. Customer interested in Premium plan.",
       "lastUpdated": "2023-05-15T14:30:22Z",
       "created": "2023-05-15T14:00:00Z"
     },
