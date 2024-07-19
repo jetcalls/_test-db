@@ -1,0 +1,34 @@
+{
+  "conversations": [
+    {
+      "phoneNumber": "+1-555-123-4567",
+      "summary": "Discussed product features and pricing. Customer interested in Premium plan.",
+      "lastUpdated": "2023-05-15T14:30:22Z",
+      "created": "2023-05-15T14:00:00Z"
+    },
+    {
+      "phoneNumber": "+44-20-7946-0958",
+      "summary": "Resolved technical issue with login. Provided step-by-step guide for password reset.",
+      "lastUpdated": "2023-05-14T09:45:10Z",
+      "created": "2023-05-14T09:15:33Z"
+    },
+    {
+      "phoneNumber": "+61-2-9876-5432",
+      "summary": "Processed refund request. Explained return policy and next steps.",
+      "lastUpdated": "2023-05-13T18:20:05Z",
+      "created": "2023-05-13T17:55:41Z"
+    },
+    {
+      "phoneNumber": "+33-1-2345-6789",
+      "summary": "Provided information about international shipping rates and delivery times.",
+      "lastUpdated": "2023-05-12T11:10:30Z",
+      "created": "2023-05-12T11:00:00Z"
+    },
+    {
+      "phoneNumber": "+49-30-1234-5678",
+      "summary": "Scheduled product demo for next week. Customer interested in enterprise solution.",
+      "lastUpdated": "2023-05-11T15:40:18Z",
+      "created": "2023-05-11T15:30:00Z"
+    }
+  ]
+}
